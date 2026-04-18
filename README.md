@@ -1,0 +1,7 @@
+echo "# Веб-портал" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ВАШ_ЛОГІН/ВАШ_РЕПОЗИТОРІЙ.git
+git push -u origin main
